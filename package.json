@@ -1,5 +1,5 @@
 {
-  "name": "youtube-rag",
+  "name": "youtube-rag-cli",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
