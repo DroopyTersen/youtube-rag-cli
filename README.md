@@ -18,6 +18,8 @@ To install dependencies:
 bun install
 ```
 
+Setup the `.env` file by copying `.env.example` and filling in the secrets.
+
 To run:
 
 ```bash
